@@ -1,4 +1,6 @@
-# SVM-SMOimplementation
+# Machine Learning CS686
 
-CS686 Machine Learning Lab2 
-Support Vector Machine using Sequential Minimal Optimization implementation
+Logistic Regression
+Support Vector Machines
+K-Nearest Neighbours 
+Decision Trees
